@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hello World!",
   "main": "app.js",
-  "author": "Red Hat Training by Fahad",
+  "author": "Red Hat Training attended by Fahad Jan",
   "license": "ASL",
   "dependencies": {
     "express": "~4.14.x"
